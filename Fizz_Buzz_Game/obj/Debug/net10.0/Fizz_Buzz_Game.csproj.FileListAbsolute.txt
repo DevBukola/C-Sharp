@@ -1,0 +1,14 @@
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/bin/Debug/net10.0/Fizz_Buzz_Game
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/bin/Debug/net10.0/Fizz_Buzz_Game.deps.json
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/bin/Debug/net10.0/Fizz_Buzz_Game.runtimeconfig.json
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/bin/Debug/net10.0/Fizz_Buzz_Game.dll
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/bin/Debug/net10.0/Fizz_Buzz_Game.pdb
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/Fizz_Buzz_Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/Fizz_Buzz_Game.AssemblyInfoInputs.cache
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/Fizz_Buzz_Game.AssemblyInfo.cs
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/Fizz_Buzz_Game.csproj.CoreCompileInputs.cache
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/Fizz_Buzz_Game.dll
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/refint/Fizz_Buzz_Game.dll
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/Fizz_Buzz_Game.pdb
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/Fizz_Buzz_Game.genruntimeconfig.cache
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/ref/Fizz_Buzz_Game.dll

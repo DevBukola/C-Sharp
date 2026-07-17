@@ -1,0 +1,15 @@
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/bin/Debug/net10.0/Type_Conversion
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/bin/Debug/net10.0/Type_Conversion.deps.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/bin/Debug/net10.0/Type_Conversion.runtimeconfig.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/bin/Debug/net10.0/Type_Conversion.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/bin/Debug/net10.0/Type_Conversion.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/obj/Debug/net10.0/Type_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/obj/Debug/net10.0/Type_Conversion.AssemblyInfoInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/obj/Debug/net10.0/Type_Conversion.AssemblyInfo.cs
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/obj/Debug/net10.0/Type_Conversion.csproj.CoreCompileInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/obj/Debug/net10.0/Type_Conversion.sourcelink.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/obj/Debug/net10.0/Type_Conversion.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/obj/Debug/net10.0/refint/Type_Conversion.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/obj/Debug/net10.0/Type_Conversion.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/obj/Debug/net10.0/Type_Conversion.genruntimeconfig.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Type_Conversion/obj/Debug/net10.0/ref/Type_Conversion.dll

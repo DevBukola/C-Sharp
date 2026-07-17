@@ -1,0 +1,15 @@
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/obj/Debug/net10.0/Nullable-TYpes.GeneratedMSBuildEditorConfig.editorconfig
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/obj/Debug/net10.0/Nullable-TYpes.AssemblyInfoInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/obj/Debug/net10.0/Nullable-TYpes.AssemblyInfo.cs
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/obj/Debug/net10.0/Nullable-TYpes.csproj.CoreCompileInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/obj/Debug/net10.0/Nullable-TYpes.sourcelink.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/bin/Debug/net10.0/Nullable-TYpes
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/bin/Debug/net10.0/Nullable-TYpes.deps.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/bin/Debug/net10.0/Nullable-TYpes.runtimeconfig.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/bin/Debug/net10.0/Nullable-TYpes.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/bin/Debug/net10.0/Nullable-TYpes.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/obj/Debug/net10.0/Nullable-TYpes.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/obj/Debug/net10.0/refint/Nullable-TYpes.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/obj/Debug/net10.0/Nullable-TYpes.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/obj/Debug/net10.0/Nullable-TYpes.genruntimeconfig.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Variables&Data-Types/Nullable-Types/obj/Debug/net10.0/ref/Nullable-TYpes.dll

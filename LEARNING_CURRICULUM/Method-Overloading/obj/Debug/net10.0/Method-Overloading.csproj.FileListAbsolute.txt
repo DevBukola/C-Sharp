@@ -1,0 +1,15 @@
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/bin/Debug/net10.0/Method-Overloading
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/bin/Debug/net10.0/Method-Overloading.deps.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/bin/Debug/net10.0/Method-Overloading.runtimeconfig.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/bin/Debug/net10.0/Method-Overloading.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/bin/Debug/net10.0/Method-Overloading.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/obj/Debug/net10.0/Method-Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/obj/Debug/net10.0/Method-Overloading.AssemblyInfoInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/obj/Debug/net10.0/Method-Overloading.AssemblyInfo.cs
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/obj/Debug/net10.0/Method-Overloading.csproj.CoreCompileInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/obj/Debug/net10.0/Method-Overloading.sourcelink.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/obj/Debug/net10.0/Method-Overloading.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/obj/Debug/net10.0/refint/Method-Overloading.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/obj/Debug/net10.0/Method-Overloading.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/obj/Debug/net10.0/Method-Overloading.genruntimeconfig.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Method-Overloading/obj/Debug/net10.0/ref/Method-Overloading.dll

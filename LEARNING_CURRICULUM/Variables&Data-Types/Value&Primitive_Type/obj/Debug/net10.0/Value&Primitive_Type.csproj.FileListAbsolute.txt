@@ -1,0 +1,15 @@
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/bin/Debug/net10.0/Value&Primitive_Type
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/bin/Debug/net10.0/Value&Primitive_Type.deps.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/bin/Debug/net10.0/Value&Primitive_Type.runtimeconfig.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/bin/Debug/net10.0/Value&Primitive_Type.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/bin/Debug/net10.0/Value&Primitive_Type.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/obj/Debug/net10.0/Value&Primitive_Type.GeneratedMSBuildEditorConfig.editorconfig
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/obj/Debug/net10.0/Value&Primitive_Type.AssemblyInfoInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/obj/Debug/net10.0/Value&Primitive_Type.AssemblyInfo.cs
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/obj/Debug/net10.0/Value&Primitive_Type.csproj.CoreCompileInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/obj/Debug/net10.0/Value&Primitive_Type.sourcelink.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/obj/Debug/net10.0/Value&Primitive_Type.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/obj/Debug/net10.0/refint/Value&Primitive_Type.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/obj/Debug/net10.0/Value&Primitive_Type.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/obj/Debug/net10.0/Value&Primitive_Type.genruntimeconfig.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Value&Primitive_Type/obj/Debug/net10.0/ref/Value&Primitive_Type.dll

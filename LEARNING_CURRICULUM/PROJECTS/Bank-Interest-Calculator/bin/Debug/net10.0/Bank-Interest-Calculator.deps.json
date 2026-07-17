@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Bank-Interest-Calculator/1.0.0": {
+        "runtime": {
+          "Bank-Interest-Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bank-Interest-Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

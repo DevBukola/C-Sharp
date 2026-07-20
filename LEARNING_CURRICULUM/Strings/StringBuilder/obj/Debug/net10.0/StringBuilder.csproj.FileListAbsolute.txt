@@ -1,0 +1,15 @@
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/bin/Debug/net10.0/StringBuilder
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/bin/Debug/net10.0/StringBuilder.deps.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/bin/Debug/net10.0/StringBuilder.runtimeconfig.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/bin/Debug/net10.0/StringBuilder.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/bin/Debug/net10.0/StringBuilder.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/obj/Debug/net10.0/StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/obj/Debug/net10.0/StringBuilder.AssemblyInfoInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/obj/Debug/net10.0/StringBuilder.AssemblyInfo.cs
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/obj/Debug/net10.0/StringBuilder.csproj.CoreCompileInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/obj/Debug/net10.0/StringBuilder.sourcelink.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/obj/Debug/net10.0/StringBuilder.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/obj/Debug/net10.0/refint/StringBuilder.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/obj/Debug/net10.0/StringBuilder.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/obj/Debug/net10.0/StringBuilder.genruntimeconfig.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/StringBuilder/obj/Debug/net10.0/ref/StringBuilder.dll

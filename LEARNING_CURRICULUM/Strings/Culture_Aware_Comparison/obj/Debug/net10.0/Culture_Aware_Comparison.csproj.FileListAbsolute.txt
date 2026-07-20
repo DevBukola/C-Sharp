@@ -1,0 +1,15 @@
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/bin/Debug/net10.0/Culture_Aware_Comparison
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/bin/Debug/net10.0/Culture_Aware_Comparison.deps.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/bin/Debug/net10.0/Culture_Aware_Comparison.runtimeconfig.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/bin/Debug/net10.0/Culture_Aware_Comparison.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/bin/Debug/net10.0/Culture_Aware_Comparison.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/obj/Debug/net10.0/Culture_Aware_Comparison.GeneratedMSBuildEditorConfig.editorconfig
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/obj/Debug/net10.0/Culture_Aware_Comparison.AssemblyInfoInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/obj/Debug/net10.0/Culture_Aware_Comparison.AssemblyInfo.cs
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/obj/Debug/net10.0/Culture_Aware_Comparison.csproj.CoreCompileInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/obj/Debug/net10.0/Culture_Aware_Comparison.sourcelink.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/obj/Debug/net10.0/Culture_Aware_Comparison.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/obj/Debug/net10.0/refint/Culture_Aware_Comparison.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/obj/Debug/net10.0/Culture_Aware_Comparison.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/obj/Debug/net10.0/Culture_Aware_Comparison.genruntimeconfig.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Strings/Culture_Aware_Comparison/obj/Debug/net10.0/ref/Culture_Aware_Comparison.dll

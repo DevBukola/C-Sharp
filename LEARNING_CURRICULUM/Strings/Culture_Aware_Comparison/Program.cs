@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 void CultureAwareComparison()
 {
@@ -47,9 +48,21 @@ void CultureAwareComparison()
     result = string.Equals(
         word1,
         word2,
-        StringComparison.CurrentCultureIgnoreCase
+        StringComparison.CurrentCulture
     );
     Console.WriteLine(result);
-}
+    Console.WriteLine(CultureInfo.CurrentCulture);
+
+    string letter = "I";
+
+    CultureInfo english = new CultureInfo("en-US");
+    CultureInfo turkish = new CultureInfo("tr-TR");
+
+    string englishResult = letter.ToLower(english);
+    string turkishResult = letter.ToLower(turkish);
+
+    Console.WriteLine($"English: {englishResult}");
+    Console.WriteLine($"Turkish: {turkishResult}");
+} 
 
 CultureAwareComparison();

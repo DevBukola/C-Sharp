@@ -1,0 +1,15 @@
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/obj/Debug/net10.0/Creating_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/obj/Debug/net10.0/Creating_Arrays.AssemblyInfoInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/obj/Debug/net10.0/Creating_Arrays.AssemblyInfo.cs
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/obj/Debug/net10.0/Creating_Arrays.csproj.CoreCompileInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/obj/Debug/net10.0/Creating_Arrays.sourcelink.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/bin/Debug/net10.0/Creating_Arrays
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/bin/Debug/net10.0/Creating_Arrays.deps.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/bin/Debug/net10.0/Creating_Arrays.runtimeconfig.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/bin/Debug/net10.0/Creating_Arrays.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/bin/Debug/net10.0/Creating_Arrays.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/obj/Debug/net10.0/Creating_Arrays.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/obj/Debug/net10.0/refint/Creating_Arrays.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/obj/Debug/net10.0/Creating_Arrays.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/obj/Debug/net10.0/Creating_Arrays.genruntimeconfig.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/Arrays/Creating_Arrays/obj/Debug/net10.0/ref/Creating_Arrays.dll

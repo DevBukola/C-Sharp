@@ -111,6 +111,7 @@ class StudentManagementSystem
         {
             Console.WriteLine("Option must be a number.");
         }
+        Console.WriteLine();
         return choice;
     }
 
@@ -167,11 +168,26 @@ class StudentManagementSystem
     {
         foreach(KeyValuePair<int, string> student in studentRecords)
         {
-            Console.WriteLine($"{student.Key} - {student.Value} COURSES:");
-            foreach(string course in studentCourses[student.Key])
+            Console.WriteLine($"{student.Key} - {student.Value}");
+            Console.WriteLine("Courses:");
+            // foreach (string course in studentCourses[student.Key])
+            // {
+            //     Console.WriteLine(course);
+
+            // }
+                if (studentCourses[student.Key].Count > 0)
             {
-                Console.WriteLine(course);
+                for (int i = 0; i < studentCourses[student.Key].Count; i++)
+                {
+                    Console.WriteLine($"{i+1}. {studentCourses[student.Key].ElementAt(i)}");
+
+                }
+            } else
+            {
+                Console.WriteLine("No courses registered.");
             }
+
+            Console.WriteLine();
         }
     }
 
@@ -378,26 +394,36 @@ class StudentManagementSystem
         {
             Console.WriteLine("Input must be a number.");
             return;
-        }else
+        }
+        else
         {
             if (studentRecords.ContainsKey(studentID))
             {
-                Console.WriteLine($"{studentID} - {studentRecords[studentID]} COURSES:");
+                Console.WriteLine($"{studentID} - {studentRecords[studentID]}");
+                Console.WriteLine("Courses:");
 
-                // Console.WriteLine(studentCourses[studentID]);
                 // foreach(string course in studentCourses[studentID])
                 // {
                 //         Console.WriteLine(course);
                 // }
-                for (int i = 0; i < studentCourses[studentID].Count; i++)
+                if (studentCourses[studentID].Count > 0)
+                {
+                    for (int i = 0; i < studentCourses[studentID].Count; i++)
                     {
-                        Console.WriteLine($"{i + 1}. {studentCourses[studentID].ElementAt(i)}");
+                         Console.WriteLine($"{i + 1}. {studentCourses[studentID].ElementAt(i)}");
                     }
-            } else
+                }
+                else
+                {
+                    Console.WriteLine("No courses registered.");
+                }
+            }
+            else
             {
                 Console.WriteLine("ID does not match any student");
             }
         }
+        Console.WriteLine();
     }
     
 }

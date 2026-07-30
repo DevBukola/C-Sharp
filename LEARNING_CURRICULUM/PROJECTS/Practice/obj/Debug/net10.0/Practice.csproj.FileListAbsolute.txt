@@ -1,0 +1,15 @@
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/bin/Debug/net10.0/Practice
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/bin/Debug/net10.0/Practice.deps.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/bin/Debug/net10.0/Practice.runtimeconfig.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/bin/Debug/net10.0/Practice.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/bin/Debug/net10.0/Practice.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/obj/Debug/net10.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/obj/Debug/net10.0/Practice.AssemblyInfoInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/obj/Debug/net10.0/Practice.AssemblyInfo.cs
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/obj/Debug/net10.0/Practice.csproj.CoreCompileInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/obj/Debug/net10.0/Practice.sourcelink.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/obj/Debug/net10.0/Practice.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/obj/Debug/net10.0/refint/Practice.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/obj/Debug/net10.0/Practice.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/obj/Debug/net10.0/Practice.genruntimeconfig.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Practice/obj/Debug/net10.0/ref/Practice.dll

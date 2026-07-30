@@ -1,5 +1,7 @@
 ﻿using System;
-using System.Runtime.CompilerServices;
+
+StudentManagementSystem program = new StudentManagementSystem();
+program.Run();
 
 class StudentManagementSystem
 {
@@ -42,34 +44,21 @@ class StudentManagementSystem
 
             new HashSet<string>
             {
-                
+
             }
         }
     };
 
 
-    static void Main(string[] arguments)
-    {
-        StudentManagementSystem program = new StudentManagementSystem();
-        program.Run();
-        // int choice = program.GetMenuChoice();
-        // program.HandleChoice(choice);
-        // program.AddStudent();
-        // program.SearchStudent();
-        // program.RemoveStudent();
-        // program.DisplayStudents();
-        // program.AddStudentRecord();
-        // program.SearchStudentByID();
-        // program.RemoveStudentByID();
-    }
-    
-    void Run()
+
+    public void Run()
     {
         int option;
         do
         {
             option = GetMenuChoice();
             HandleChoice(option);
+            Console.ReadKey();
         } while (option != 0);
     }
 
@@ -163,10 +152,10 @@ class StudentManagementSystem
                 break;
         }
     }
-    
+
     void DisplayAllStudents()
     {
-        foreach(KeyValuePair<int, string> student in studentRecords)
+        foreach (KeyValuePair<int, string> student in studentRecords)
         {
             Console.WriteLine($"{student.Key} - {student.Value}");
             Console.WriteLine("Courses:");
@@ -175,14 +164,15 @@ class StudentManagementSystem
             //     Console.WriteLine(course);
 
             // }
-                if (studentCourses[student.Key].Count > 0)
+            if (studentCourses[student.Key].Count > 0)
             {
                 for (int i = 0; i < studentCourses[student.Key].Count; i++)
                 {
-                    Console.WriteLine($"{i+1}. {studentCourses[student.Key].ElementAt(i)}");
+                    Console.WriteLine($"{i + 1}. {studentCourses[student.Key].ElementAt(i)}");
 
                 }
-            } else
+            }
+            else
             {
                 Console.WriteLine("No courses registered.");
             }
@@ -247,26 +237,27 @@ class StudentManagementSystem
         }
         else
         {
-              if (studentRecords.ContainsKey(studentID))
+            if (studentRecords.ContainsKey(studentID))
             {
                 Console.WriteLine("ID already exists.");
                 return;
-            } else
-            {
-                 Console.Write("Enter the student's name: ");
-            string studentName = Console.ReadLine()!;
-
-            studentRecords.Add(studentID, studentName);
-            Console.WriteLine($"{studentName} with the ID: {studentID} has been added successfully!");
-            studentCourses.Add(studentID, new HashSet<string>()); //Create an empty course list for this student and store it using their ID. Without this, registering a course for newly added student record from the terminal (not hard-coded in the studentRecords Dictionary) will result in "ID does not matchany student".
             }
-           
+            else
+            {
+                Console.Write("Enter the student's name: ");
+                string studentName = Console.ReadLine()!;
+
+                studentRecords.Add(studentID, studentName);
+                Console.WriteLine($"{studentName} with the ID: {studentID} has been added successfully!");
+                studentCourses.Add(studentID, new HashSet<string>()); //Create an empty course list for this student and store it using their ID. Without this, registering a course for newly added student record from the terminal (not hard-coded in the studentRecords Dictionary) will result in "ID does not matchany student".
+            }
+
         }
     }
 
     void DisplayStudentsRecord()
     {
-        foreach(KeyValuePair<int, string> studentRecord in studentRecords)
+        foreach (KeyValuePair<int, string> studentRecord in studentRecords)
         {
             Console.WriteLine($"{studentRecord.Key} - {studentRecord.Value}");
         }
@@ -353,17 +344,18 @@ class StudentManagementSystem
 
         }
     }
-    
+
     void DeleteCourseFromStudent()
     {
-         bool isNumber;
+        bool isNumber;
         Console.Write("What is the student ID?: ");
         isNumber = int.TryParse(Console.ReadLine(), out int studentID);
         if (!isNumber)
         {
             Console.WriteLine("Input must be a number.");
             return;
-        }else
+        }
+        else
         {
             if (studentRecords.ContainsKey(studentID))
             {
@@ -373,18 +365,20 @@ class StudentManagementSystem
                 {
                     Console.WriteLine("Course does not exist.");
                     return;
-                } else
+                }
+                else
                 {
                     studentCourses[studentID].Remove(removeCourse);
                     Console.WriteLine("Course deleted successfully.");
                 }
-            }else
+            }
+            else
             {
                 Console.WriteLine("ID does not match any student.");
             }
         }
     }
-    
+
     void DisplayStudentCourses()
     {
         bool isNumber;
@@ -410,7 +404,7 @@ class StudentManagementSystem
                 {
                     for (int i = 0; i < studentCourses[studentID].Count; i++)
                     {
-                         Console.WriteLine($"{i + 1}. {studentCourses[studentID].ElementAt(i)}");
+                        Console.WriteLine($"{i + 1}. {studentCourses[studentID].ElementAt(i)}");
                     }
                 }
                 else
@@ -425,5 +419,6 @@ class StudentManagementSystem
         }
         Console.WriteLine();
     }
-    
+
 }
+

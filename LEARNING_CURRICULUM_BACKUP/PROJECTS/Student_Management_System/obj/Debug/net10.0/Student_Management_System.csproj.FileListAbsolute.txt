@@ -1,0 +1,15 @@
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/bin/Debug/net10.0/Student_Management_System
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/bin/Debug/net10.0/Student_Management_System.deps.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/bin/Debug/net10.0/Student_Management_System.runtimeconfig.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/bin/Debug/net10.0/Student_Management_System.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/bin/Debug/net10.0/Student_Management_System.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/obj/Debug/net10.0/Student_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/obj/Debug/net10.0/Student_Management_System.AssemblyInfoInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/obj/Debug/net10.0/Student_Management_System.AssemblyInfo.cs
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/obj/Debug/net10.0/Student_Management_System.csproj.CoreCompileInputs.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/obj/Debug/net10.0/Student_Management_System.sourcelink.json
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/obj/Debug/net10.0/Student_Management_System.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/obj/Debug/net10.0/refint/Student_Management_System.dll
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/obj/Debug/net10.0/Student_Management_System.pdb
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/obj/Debug/net10.0/Student_Management_System.genruntimeconfig.cache
+/home/l2e/Documents/CSharp/LEARNING_CURRICULUM/PROJECTS/Student_Management_System/obj/Debug/net10.0/ref/Student_Management_System.dll

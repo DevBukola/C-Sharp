@@ -12,3 +12,4 @@
 /home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/Fizz_Buzz_Game.pdb
 /home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/Fizz_Buzz_Game.genruntimeconfig.cache
 /home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/ref/Fizz_Buzz_Game.dll
+/home/l2e/Documents/CSharp/Fizz_Buzz_Game/obj/Debug/net10.0/Fizz_Buzz_Game.sourcelink.json

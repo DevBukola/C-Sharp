@@ -1,6 +1,6 @@
 ﻿using System;
 
-StudentManagementSystemObject program = new StudentManagementSystemObject();
+StudentManagementSystemObj program = new StudentManagementSystemObj();
 program.Run();
 
 class Student
@@ -43,7 +43,7 @@ class Student
     }
 }
 
-class StudentManagementSystemObject
+class StudentManagementSystemObj
 {
     List<string> students = new List<string>
       {

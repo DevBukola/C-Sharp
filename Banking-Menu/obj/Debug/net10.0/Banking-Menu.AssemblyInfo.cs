@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Banking-Menu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d292ab14f60111f187aefac4fb49e2065824fa0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c969cb456939e6f8e3c0d57aba1e1bfbe2527a91")]
 [assembly: System.Reflection.AssemblyProductAttribute("Banking-Menu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Banking-Menu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

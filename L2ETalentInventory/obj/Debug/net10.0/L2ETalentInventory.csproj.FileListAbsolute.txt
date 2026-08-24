@@ -1,0 +1,15 @@
+/home/l2e/Documents/CSharp/L2ETalentInventory/bin/Debug/net10.0/L2ETalentInventory
+/home/l2e/Documents/CSharp/L2ETalentInventory/bin/Debug/net10.0/L2ETalentInventory.deps.json
+/home/l2e/Documents/CSharp/L2ETalentInventory/bin/Debug/net10.0/L2ETalentInventory.runtimeconfig.json
+/home/l2e/Documents/CSharp/L2ETalentInventory/bin/Debug/net10.0/L2ETalentInventory.dll
+/home/l2e/Documents/CSharp/L2ETalentInventory/bin/Debug/net10.0/L2ETalentInventory.pdb
+/home/l2e/Documents/CSharp/L2ETalentInventory/obj/Debug/net10.0/L2ETalentInventory.GeneratedMSBuildEditorConfig.editorconfig
+/home/l2e/Documents/CSharp/L2ETalentInventory/obj/Debug/net10.0/L2ETalentInventory.AssemblyInfoInputs.cache
+/home/l2e/Documents/CSharp/L2ETalentInventory/obj/Debug/net10.0/L2ETalentInventory.AssemblyInfo.cs
+/home/l2e/Documents/CSharp/L2ETalentInventory/obj/Debug/net10.0/L2ETalentInventory.csproj.CoreCompileInputs.cache
+/home/l2e/Documents/CSharp/L2ETalentInventory/obj/Debug/net10.0/L2ETalentInventory.sourcelink.json
+/home/l2e/Documents/CSharp/L2ETalentInventory/obj/Debug/net10.0/L2ETalentInventory.dll
+/home/l2e/Documents/CSharp/L2ETalentInventory/obj/Debug/net10.0/refint/L2ETalentInventory.dll
+/home/l2e/Documents/CSharp/L2ETalentInventory/obj/Debug/net10.0/L2ETalentInventory.pdb
+/home/l2e/Documents/CSharp/L2ETalentInventory/obj/Debug/net10.0/L2ETalentInventory.genruntimeconfig.cache
+/home/l2e/Documents/CSharp/L2ETalentInventory/obj/Debug/net10.0/ref/L2ETalentInventory.dll

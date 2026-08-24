@@ -14,8 +14,8 @@ do
     Console.WriteLine("1. Create User");
     Console.WriteLine("2. Get All Users");
     Console.WriteLine("3. Get User By Id");
-    Console.WriteLine("4. Delete User By Id");
-    Console.WriteLine("5. Update User By Id");
+    Console.WriteLine("4. Update User By Id");
+    Console.WriteLine("5. Delete User By Id");
     Console.WriteLine("0. Exit");
 
 
@@ -67,6 +67,15 @@ do
             var oneUser = userService.ReadUserById();
             Console.WriteLine($"Id: {oneUser?.Id}\nName: {oneUser?.Name}");
             break;
+        case 4:
+            var updatedUser = new UpdateUserDto
+            {
+                Name = "Simi"
+            };
+            var result = userService.EditUser(updatedUser);
+            Console.WriteLine($"User {result.Name} updated successfully.");
+            break;
+            
         case 0:
             Console.WriteLine("Goodbye!");
             break;

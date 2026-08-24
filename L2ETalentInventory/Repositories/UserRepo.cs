@@ -22,9 +22,9 @@ namespace L2ETalentInventory.Repositories
             return _users.FirstOrDefault(u => u.Id == id);
         }
 
-        public void UpdateUserById(User updatedUser)
+        public void UpdateUserById(int id, User updatedUser)
         {
-            var existingUser = _users.FirstOrDefault(u => u.Id == updatedUser.Id);
+            var existingUser = _users.FirstOrDefault(u => u.Id == id);
             if (existingUser != null)
             {
                 existingUser.Name = updatedUser.Name;

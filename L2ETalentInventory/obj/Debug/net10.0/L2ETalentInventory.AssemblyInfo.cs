@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L2ETalentInventory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dea9863ef00f8bc1d0d6ab9f0ff1f311c4a6ac86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f147d7c04e7257caa36e38f403c10f7535ccae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("L2ETalentInventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L2ETalentInventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

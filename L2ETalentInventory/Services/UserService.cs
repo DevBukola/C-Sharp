@@ -62,8 +62,23 @@ namespace L2ETalentInventory.Services;
             Id = singleUser.Id,
             Name = singleUser.Name,
         };
-       
+
     } 
+    
+    public UserDto EditUser(UpdateUserDto dto)
+    {
+        var updatedUser = new User
+        {
+            Name = dto.Name,
+        };
+        _userRepository.UpdateUserById(1, updatedUser);
+
+        return new UserDto
+        {
+            Name = updatedUser.Name,
+            Id = updatedUser.Id,
+        };
+    }
         private int GenerateNewId()
     {
         var allUsers = _userRepository.GetAllUsers();
